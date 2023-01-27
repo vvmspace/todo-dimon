@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vvmspace/todo-dimon/issues"
   },
-  "homepage": "https://github.com/vvmspace/todo-dimon#readme"
+  "homepage": "https://github.com/vvmspace/todo-dimon#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
